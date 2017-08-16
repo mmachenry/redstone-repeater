@@ -10,6 +10,12 @@ your computer and after the 8-second programming delay, it will behave just
 like a USB mouse that someone is right clicking every 400 miliseconds which is
 2.5 time per second.
 
+Trinkets are available for $7 here: https://www.adafruit.com/product/1501
+
+I also recommend something [USB adapter] (https://www.amazon.com/gp/product/B00TAM0MZW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) to make it easier to use,
+but any micro USB cable, like the one you probably use for your phoen, will
+work just fine.
+
 Software solution
 ---
 The user experience using the Trinket as an external hardware device is nice
